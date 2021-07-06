@@ -16,11 +16,15 @@ body{
 h1{
     font-size: 55px;
 }
+h2{
+    line-height: 30px;
+    font-weight: 700;
+    font-size: 40px;
+    color: rgb(90, 88, 88);
+}
 h3{
     font-weight: 500;
-    color: rgb(119, 115, 115);
-    margin-bottom: 50px;
-    padding-top: 20px;
+    font-size: 30px;
 }
 p{
     font-size: 18;
@@ -34,6 +38,12 @@ p{
     line-height: 30px;
     font-weight: 700;
     color: rgb(90, 88, 88);
+}
+.text-format h3{
+    font-size: 20px;
+    color: rgb(119, 115, 115);
+    margin-bottom: 50px;
+    padding-top: 18px;
 }
 .orange-color{
     color: #ffa600fd;
@@ -67,4 +77,47 @@ p{
 }
 .fix-text a{
     margin-left: 18%;
+}
+.recipe{
+    width: 28%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-bottom: 100px;
+}
+.recipies-text{
+    text-align: center;
+    
+}
+.recipies-text p{
+    padding:0 370px;
+    margin-bottom: 50px;
+}
+.recipies-text h2{
+    margin-top: 90px;
+}
+.recipe img{
+    width: 337px;
+    height: 256px;
+}
+.recipe h3{
+    font-weight: 800;
+}
+#margin1{
+    margin-left: 5%;
+}
+#margin2{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#margin3{
+    margin-right: 5%;
+}
+.social-media{
+    width: 84%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-bottom: 100px;
+    margin-left: 8%;
 }

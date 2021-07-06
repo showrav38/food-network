@@ -114,10 +114,19 @@ p{
     margin-right: 5%;
 }
 .social-media{
-    width: 84%;
-    padding: 20px;
+    width: 90%;
     border-radius: 20px;
     box-shadow: 10px 10px 40px gray;
     margin-bottom: 100px;
-    margin-left: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.social-media-feature{
+    width: 30%;
+    text-align: center;
+    padding: 30px 40px;
+}
+.social-media-feature h2{
+    color: black;
 }
